@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The constant lover. VVho his affection will not move, though he live not where he love. To a northerne tune called, Shall the absence of my mistresse.</title>
+            <author>Lowberry, Peter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00385</idno>
+            <idno type="STC">STC 16868</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[68]</idno>
+            <idno type="EEBO-CITATION">99892255</idno>
+            <idno type="PROQUEST">ocm99892255</idno>
+            <idno type="VID">182958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182958)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The constant lover. VVho his affection will not move, though he live not where he love. To a northerne tune called, Shall the absence of my mistresse.</title>
+                  <author>Lowberry, Peter.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Gosson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1638?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: P.L. [i.e. Peter Lowberry].</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "You loyall lovers that are distant ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="68" facs="tcp:182958:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>The Conſtant Lover.
+<l>Who his affection will not move,</l>
+               <l>Though he live not where he love.</l>
+            </head>
+            <opener>To a Northerne tune called, <hi>Shall the abſence of my Miſtreſſe.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>YOu loyall Lovers that are diſtant,</l>
+                  <l>from your Swéet-hearts many a mile,</l>
+                  <l>Pray come helpe me at this inſtant,</l>
+                  <l>in mirth to ſpend away the while,</l>
+                  <l>In ſinging ſwéetly and compleately,</l>
+                  <l>in commendation of my love,</l>
+                  <l>Reſolving ever to part never,</l>
+                  <lg type="refrain">
+                     <l>though I live not where I love.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My love ſhée's faire and alſo vertuous,</l>
+                  <l>God grant to me ſhe may prove true,</l>
+                  <l>Then there is naught but death ſhall part us,</l>
+                  <l>and Ile ne're change her for a new,</l>
+                  <l>And though the fates my fortunes hates,</l>
+                  <l>and me from here doe farre remove,</l>
+                  <l>Yet I doe vow ſtill to be true,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My conſtancy ſhall ne're be failing,</l>
+                  <l>whatſoe're betide me here,</l>
+                  <l>Of her vertue Ile be telling,</l>
+                  <l>be my biding farre or néere,</l>
+                  <l>And though blind fortune prove uncertaine,</l>
+                  <l>from her preſence me to remove,</l>
+                  <l>Yet Ile be conſtant every inſtant,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Though our bodies thus are parted,</l>
+                  <l>and aſunder many a mile,</l>
+                  <l>Yet I vow to be true hearted,</l>
+                  <l>and be faithfull all the while;</l>
+                  <l>Though with mine eye I cannot ſpye,</l>
+                  <l>for diſtance great my deareſt Loue,</l>
+                  <l>My heart is with her altogether,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When I ſléepe I doe dreame on her,</l>
+                  <l>when I wake I take no reſt,</l>
+                  <l>But euery moment thinke upon her,</l>
+                  <l>ſhe's ſo fixed in my breſt,</l>
+                  <l>And though farre diſtance may be aſſiſtance,</l>
+                  <l>from my mind her loue to moue,</l>
+                  <l>Yet I will neuer our loue diſſeuer,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To thinke upon the amarous glances,</l>
+                  <l>that haue béene betwixt us twaine,</l>
+                  <l>My conſtancy and loue aduances,</l>
+                  <l>though from her preſence I remaine,</l>
+                  <l>And makes the feares with groanes &amp; feares,</l>
+                  <l>from watery eyes and heart to moue,</l>
+                  <l>And ſighing ſay both night and day,</l>
+                  <lg type="refrain">
+                     <l>alas I liue &amp;c.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="69" facs="tcp:182958:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 16 -->
+               <head>The ſecond part,</head>
+               <opener>to the ſame Tune<g ref="char:punc">▪</g>
+               </opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>I</hi> To her will be like <hi>Leander,</hi>
+                  </l>
+                  <l>if <hi>Hero</hi> like ſhée'le prove to me,</l>
+                  <l>For her ſake through the world Ile wander,</l>
+                  <l>no deſperate danger I will flée,</l>
+                  <l>And into the Seas with little eaſe,</l>
+                  <l>the mountains great themſelves ſhal move,</l>
+                  <l>Ere faith I breake, let me ne're ſpeake,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Penelope</hi> ſhall be unconſtant,</l>
+                  <l>and <hi>Diana</hi> prove unchaſte,</l>
+                  <l>
+                     <hi>Venus</hi> to <hi>Vulcan</hi> ſhall be conſtant,</l>
+                  <l>and <hi>Mars</hi> farre from her ſhall be plac't,</l>
+                  <l>The blinded boy no more ſhall ioy,</l>
+                  <l>with Arrowes keene lovers to move,</l>
+                  <l>Ere falſe I be ſweet-heart to thee,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Birds ſhall leave their Airy region,</l>
+                  <l>the fiſhes in the aire ſhall fly,</l>
+                  <l>All the world ſhall be at one religion,</l>
+                  <l>all liuing things ſhall ceaſe to dye,</l>
+                  <l>Al things ſhal change to ſhapes moſt ſtrange,</l>
+                  <l>before that I diſloyall proue,</l>
+                  <l>Or any way my loue decay,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>If you lines doe come before her,</l>
+                  <l>or doe deigne to touch her hand,</l>
+                  <l>Tell her that <hi>I</hi> doe adore her,</l>
+                  <l>aboue all Maidens in the land,</l>
+                  <l>Remaining ſtill at her good will,</l>
+                  <l>and alwayes to her loyall proue,</l>
+                  <l>Tell death with dart doe ſtrike my heart,</l>
+                  <lg type="refrain">
+                     <l>though &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And tell my miſtreſſe that a Louer,</l>
+                  <l>that loues perfect image beares,</l>
+                  <l>As true as loue it ſelfe doe loue her,</l>
+                  <l>witneſſe his farre fetcht ſighes and feares,</l>
+                  <l>Which forth he groanes with bitter moa<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s,</l>
+                  <l>and from his troubled breaſt he moues<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And day nor night takes no delight,</l>
+                  <lg type="refrain">
+                     <l>becauſe &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>So with my duty to her commended,</l>
+                  <l>her loyall ſeruant Ile be ſtill,</l>
+                  <l>Deſiring <hi>I</hi> may be befriended,</l>
+                  <l>with loue againe for my good will,</l>
+                  <l>And wiſh that ſhe as true may be,</l>
+                  <l>as I to her will conſtant proue,</l>
+                  <l>And night and day I ſtill will pray,</l>
+                  <lg type="refrain">
+                     <l>and wiſh I may liue where I loue</l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>P. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Henry Goſſon.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
